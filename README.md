@@ -30,4 +30,5 @@ smithDemo.m
 for usage and example matrices.
 
 Author: Nadia Figueroa
+
 E-mail: nadia.figueroafernandez@epfl.ch
