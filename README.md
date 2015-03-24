@@ -13,6 +13,14 @@ The Smith normal form (also called Smith Canonical form or Invariant Factor theo
 
 where d1 , ..., dr ∈ F are monic, dj |dj+1 for 1 ≤ k ≤ r − 1. T is a product of elementary row unimodular matrices, and S is a product of elementary column unimodular matrices.
 
-Provided are two functions: [T,D,S]=smithFormInt(A) for integer matrices and [T,D,S]=smithFormPoly(A) for polynomial matrices.
+Provided are two functions: 
+```
+[T,D,S]=smithFormInt(A) 
+```
+for integer matrices and: 
+```
+[T,D,S]=smithFormPoly(A) 
+```
+for polynomial matrices.
 
 Run the smithDemo.m for usage and example matrices.
