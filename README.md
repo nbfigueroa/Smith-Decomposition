@@ -23,4 +23,8 @@ for integer matrices and:
 ```
 for polynomial matrices.
 
-Run the smithDemo.m for usage and example matrices.
+Run the 
+```
+smithDemo.m 
+```
+for usage and example matrices.
